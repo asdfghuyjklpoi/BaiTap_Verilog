@@ -1,0 +1,1 @@
+file này tạo khi tạo file vo, sdo bằng Quartus

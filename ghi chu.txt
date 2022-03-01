@@ -1,0 +1,5 @@
+Huy tự mình fix lại Circui_A, Circui_B, BCD_7segment =)) 
+
+11:50 thầy nói nhầm chổ Circui_A phải -2 mà thầy nói nhầm +2 làm sai mạch
+
+chạy đc pre

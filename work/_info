@@ -1,0 +1,180 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1\Bai1_Post_Syn
+vA
+Z1 Ib8VUNA@BQNo_4lJFkJGJI0
+Z2 VhUbgU0CH4_MMifSS^cj4<1
+Z3 dD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2
+Z4 w1637887449
+Z5 8D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_A.v
+Z6 FD:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_A.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+n@a
+Z9 !s100 l34AAZGl5a>CUKHggjT7e1
+Z10 !s108 1641298120.336000
+Z11 !s107 D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_A.v|
+Z12 !s90 -reportprogress|300|-work|work|D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_A.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vB
+Z13 IjZe]zU?ZbL`A]h?4>Z;MS1
+Z14 VlY[o]dVo=5[;@MMeXjzMA2
+R3
+Z15 w1637559492
+Z16 8D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_B.v
+Z17 FD:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_B.v
+L0 1
+R7
+r1
+31
+R8
+n@b
+Z18 !s100 S>3DMoTn6gd3n9=<K>5f`2
+Z19 !s108 1641298120.592000
+Z20 !s107 D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_B.v|
+Z21 !s90 -reportprogress|300|-work|work|D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_B.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcomparator
+Z22 If[XA:Koz[MU9?j2C:5EdZ2
+Z23 VLnH<gX1kC_]@UfN:eoT840
+R3
+Z24 w1637559504
+Z25 8D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Comparator_1.v
+Z26 FD:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Comparator_1.v
+L0 1
+R7
+r1
+31
+R8
+Z27 !s100 O8_G1`TV?EDIMiSlg<n[A2
+Z28 !s108 1641298120.867000
+Z29 !s107 D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Comparator_1.v|
+Z30 !s90 -reportprogress|300|-work|work|D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Comparator_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfulladd
+!i10b 1
+!s100 4jJ`<F7b2bi@8Y0o4Vj@:0
+IGUN9WOmh]iZHaM];>n3^]0
+Z31 VczBoI9Yh6MeEheXCaXCQN2
+R3
+Z32 w1639119542
+8D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/test.v
+FD:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/test.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1641298121.649000
+!s107 D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/test.v|
+!s90 -reportprogress|300|-work|work|D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/test.v|
+!s101 -O0
+R8
+vMux21
+Z33 IIRkK?=Hnaz>:mfc689a>V1
+Z34 VfQ4fbe^bW=P1o7R_:AK;32
+R3
+Z35 w1637559531
+Z36 8D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/MUX21.v
+Z37 FD:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/MUX21.v
+L0 1
+R7
+r1
+31
+R8
+Z38 n@mux21
+Z39 !s100 _NA?Ze_2g>][TbSEeBeWQ1
+Z40 !s108 1641298121.323000
+Z41 !s107 D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/MUX21.v|
+Z42 !s90 -reportprogress|300|-work|work|D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/MUX21.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2to1
+Z43 I6glb>aPJPE1U5X9i8PCV;2
+Z44 VT^l?4P7Q5afY=J>]H]I4<1
+R3
+Z45 w1637559519
+Z46 8D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Mux2to1.v
+Z47 FD:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Mux2to1.v
+L0 1
+R7
+r1
+31
+R8
+Z48 !s100 JVJ3iQJ@lidbKXHbdA];o3
+Z49 !s108 1641298121.090000
+Z50 !s107 D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Mux2to1.v|
+Z51 !s90 -reportprogress|300|-work|work|D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Mux2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsegment7
+Z52 INYin_b96@mdYUKU65]?;^0
+Z53 Ve^:;OQi_mdc29IdJX028`0
+R3
+Z54 w1637559450
+Z55 8D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/BCD_7segment.v
+Z56 FD:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/BCD_7segment.v
+L0 1
+R7
+r1
+31
+R8
+Z57 !s100 eG?]VzhOHm>BLTkC0oWGN3
+Z58 !s108 1641298119.982000
+Z59 !s107 D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/BCD_7segment.v|
+Z60 !s90 -reportprogress|300|-work|work|D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/BCD_7segment.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_1
+Z61 IlbDeUSIJb4W2j@]NP9z9S2
+Z62 VNIj_1NG]zYzK[BlXg69>B0
+R3
+Z63 w1637559541
+Z64 8D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/TESTBENCH.v
+Z65 FD:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/TESTBENCH.v
+L0 1
+R7
+r1
+31
+R8
+!i10b 1
+Z66 !s100 Fl^5IDKP^=G^eOA;TPXQ>1
+!s85 0
+Z67 !s108 1641298121.477000
+Z68 !s107 D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/TESTBENCH.v|
+Z69 !s90 -reportprogress|300|-work|work|D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/TESTBENCH.v|
+!s101 -O0
+vTop_module
+Z70 I_HDgX]leWK[?XFmNZM;9]3
+Z71 VRkOjL5C@lQI1580JDIC9[2
+R3
+Z72 w1637559551
+Z73 8D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Top_module.v
+Z74 FD:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Top_module.v
+L0 1
+R7
+r1
+31
+R8
+Z75 n@top_module
+Z76 !s100 D0cSo3VHHnlAIoKG[?K6z3
+Z77 !s108 1641298119.336000
+Z78 !s107 D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Top_module.v|
+Z79 !s90 -reportprogress|300|-work|work|D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Top_module.v|
+!i10b 1
+!s85 0
+!s101 -O0

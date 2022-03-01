@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2
+vA
+Z1 !s100 39PlhM;<RF]HUFl7[IaaL0
+Z2 IFl;]FnKYIgM5gS6Fj4cLD0
+Z3 VhUbgU0CH4_MMifSS^cj4<1
+Z4 dD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Bai1_Post_Syn
+Z5 w1637559476
+Z6 8D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Circui_A.v
+Z7 FD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Circui_A.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Circui_A.v|
+Z10 o-work work -O0
+n@a
+Z11 !s108 1637560996.091000
+Z12 !s107 D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Circui_A.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vB
+Z13 !s100 >M2nhc^47jn?lQBY7zWoH3
+Z14 IdD[g:kZ63XN6RRP<a744c1
+Z15 VlY[o]dVo=5[;@MMeXjzMA2
+R4
+Z16 w1637559492
+Z17 8D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Circui_B.v
+Z18 FD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Circui_B.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Circui_B.v|
+R10
+n@b
+Z20 !s108 1637560996.240000
+Z21 !s107 D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Circui_B.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcomparator
+Z22 !s100 5Ph_zXMCL]39Jd_OMek[23
+Z23 ICSdWB5WHkLdJ0iYaD4V9i0
+Z24 VLnH<gX1kC_]@UfN:eoT840
+R4
+Z25 w1637559504
+Z26 8D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Comparator_1.v
+Z27 FD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Comparator_1.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Comparator_1.v|
+R10
+Z29 !s108 1637560996.406000
+Z30 !s107 D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Comparator_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux21
+Z31 !s100 IzU?Hh8?^5KaYj<kD4CCA0
+Z32 IN<bnBiMQKh:]JZ9nkUGW=1
+Z33 VfQ4fbe^bW=P1o7R_:AK;32
+R4
+Z34 w1637559531
+Z35 8D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\MUX21.v
+Z36 FD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\MUX21.v
+L0 1
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\MUX21.v|
+R10
+Z38 n@mux21
+Z39 !s108 1637560996.684000
+Z40 !s107 D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\MUX21.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2to1
+Z41 !s100 dU:ii?^E:M7i]lm`_h[BH2
+Z42 Ilbj=WWnMW9IHTWSoR6VkX1
+Z43 VT^l?4P7Q5afY=J>]H]I4<1
+R4
+Z44 w1637559519
+Z45 8D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Mux2to1.v
+Z46 FD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Mux2to1.v
+L0 1
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Mux2to1.v|
+R10
+Z48 !s108 1637560996.537000
+Z49 !s107 D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\Mux2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsegment7
+Z50 !s100 @g70Hcb>I@cBbh:14BoUM0
+Z51 IIBY^c5D3YbHYgKJ_UMmbS0
+Z52 Ve^:;OQi_mdc29IdJX028`0
+R4
+Z53 w1637559450
+Z54 8D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\BCD_7segment.v
+Z55 FD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\BCD_7segment.v
+L0 1
+R8
+r1
+31
+Z56 !s90 -reportprogress|300|-work|work|D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\BCD_7segment.v|
+R10
+Z57 !s108 1637560995.937000
+Z58 !s107 D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\BCD_7segment.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_1
+Z59 !s100 dzLVHn_Mj:]5C`fH9:S^`2
+Z60 IaDkR]fbf5i1MojGb_Rag[0
+Z61 VNIj_1NG]zYzK[BlXg69>B0
+R4
+Z62 w1637559541
+Z63 8D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\TESTBENCH.v
+Z64 FD:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\TESTBENCH.v
+L0 1
+R8
+r1
+31
+Z65 !s90 -reportprogress|300|-work|work|D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\TESTBENCH.v|
+R10
+Z66 !s108 1637560996.840000
+Z67 !s107 D:\ModelSim\Save_HDL_hoclailan3\Lab2_3_bai\Bai1_ver2\TESTBENCH.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTop_module
+!i10b 1
+!s100 H]A0?Bd8>cz<z[I9N[YCX2
+IChR`h?3?dzEQB8^=8[al30
+Z68 VRkOjL5C@lQI1580JDIC9[2
+R4
+w1637560561
+8D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Counter_FSM.vo
+FD:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Counter_FSM.vo
+L0 31
+R8
+r1
+!s85 0
+31
+!s108 1637560997.089000
+!s107 D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Counter_FSM.vo|
+!s90 -reportprogress|300|-work|work|D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Counter_FSM.vo|
+!s101 -O0
+R10
+Z69 n@top_module

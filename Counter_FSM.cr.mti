@@ -1,0 +1,64 @@
+D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/MUX21.v {1 {vlog -work work D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/MUX21.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux21
+
+Top level modules:
+	Mux21
+
+} {} {}} D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/BCD_7segment.v {1 {vlog -work work D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/BCD_7segment.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module segment7
+
+Top level modules:
+	segment7
+
+} {} {}} D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_A.v {1 {vlog -work work D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_A.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module A
+
+Top level modules:
+	A
+
+} {} {}} D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/test.v {1 {vlog -work work D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fulladd
+
+Top level modules:
+	fulladd
+
+} {} {}} D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Top_module.v {1 {vlog -work work D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Top_module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Top_module
+
+Top level modules:
+	Top_module
+
+} {} {}} D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_B.v {1 {vlog -work work D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Circui_B.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module B
+
+Top level modules:
+	B
+
+} {} {}} D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Comparator_1.v {1 {vlog -work work D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Comparator_1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Mux2to1.v {1 {vlog -work work D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/Mux2to1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/TESTBENCH.v {1 {vlog -work work D:/ModelSim/Save_HDL_hoclailan3/Lab2_3_bai/Bai1_ver2/TESTBENCH.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_1
+
+Top level modules:
+	tb_1
+
+} {} {}}
